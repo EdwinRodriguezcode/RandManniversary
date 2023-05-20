@@ -1,0 +1,12 @@
+{
+<<<<<<< Updated upstream
+    "projectManager.git.ignoredFolders": [
+        "typings",
+        "test",
+        ".haxelib",
+        "nod_modules"
+    ]
+=======
+    "mos.port": ""
+>>>>>>> Stashed changes
+}
