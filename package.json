@@ -1,0 +1,31 @@
+{
+  "name": "awsome_wedding_site",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000w\u0000s\u0000o\u0000m\u0000e\u0000_\u0000W\u0000e\u0000d\u0000d\u0000i\u0000n\u0000g\u0000_\u0000s\u0000i\u0000t\u0000e\u0000\r\u0000 \u0000t\u0000h\u0000i\u0000s\u0000 \u0000i\u0000s\u0000 \u0000g\u0000o\u0000i\u0000n\u0000g\u0000 \u0000t\u0000o\u0000 \u0000b\u0000e\u0000 \u0000a\u0000 \u0000w\u0000e\u0000d\u0000d\u0000i\u0000n\u0000g\u0000 \u0000r\u0000e\u0000g\u0000i\u0000s\u0000t\u0000r\u0000y\u0000 \u0000w\u0000e\u0000b\u0000 \u0000s\u0000i\u0000t\u0000e\u0000 \u0000w\u0000e\u0000r\u0000e\u0000 \u0000u\u0000s\u0000e\u0000r\u0000 \u0000c\u0000a\u0000n\u0000 \u0000r\u0000e\u0000g\u0000i\u0000s\u0000t\u0000e\u0000r\u0000 \u0000a\u0000n\u0000d\u0000 \u0000t\u0000h\u0000e\u0000 \u0000a\u0000p\u0000p\u0000\r\u0000 \u0000c\u0000a\u0000n\u0000 \u0000b\u0000e\u0000 \u0000u\u0000t\u0000i\u0000l\u0000i\u0000z\u0000e\u0000d\u0000 \u0000b\u0000y\u0000 \u0000f\u0000r\u0000i\u0000e\u0000n\u0000d\u0000s\u0000 \u0000a\u0000n\u0000d\u0000 \u0000f\u0000a\u0000m\u0000i\u0000l\u0000y\u0000 \u0000t\u0000o\u0000 \u0000r\u0000e\u0000g\u0000i\u0000s\u0000t\u0000e\u0000r\u0000 \u0000w\u0000e\u0000d\u0000d\u0000i\u0000n\u0000g\u0000 \u0000g\u0000i\u0000f\u0000t\u0000s\u0000.\u0000",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinRodriguezcode/Awsome_Wedding_site.git"
+  },
+  "author": "edwin rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwinRodriguezcode/Awsome_Wedding_site/issues"
+  },
+  "homepage": "https://github.com/EdwinRodriguezcode/Awsome_Wedding_site#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "handlebars": "^4.7.7",
+    "mocha": "^9.2.2",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  }
+}
